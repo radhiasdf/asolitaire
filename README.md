@@ -1,2 +1,2 @@
 # asolitaire
-wasm port https://rad-hi.itch.io/solitaire
+wasm port using pygbag https://rad-hi.itch.io/solitaire
